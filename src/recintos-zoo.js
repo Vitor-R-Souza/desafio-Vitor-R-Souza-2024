@@ -127,6 +127,4 @@ class RecintosZoo {
 
 }
 
-new RecintosZoo().analisaRecintos('crocodilo', 1)
-
 export { RecintosZoo as RecintosZoo }
