@@ -6,5 +6,5 @@ O código usa arrays e objetos para arazenar os animais, suas caracteristicas as
 
 ## Aprendizados
 
-Com esse desafio, aprendi inicialmente a usar o Node.js assim como a linguagem de JavaScript no back-end, manipular objetos, arrays e outros dados dentro de funções que seriam exportadas para outros codigos e implementações.
+Com esse desafio, aprendi inicialmente a usar o Node.js assim como a linguagem de JavaScript no back-end, manipular objetos, arrays e outros dados dentro de funções que seriam exportadas para outros códigos e implementações.
 Esse código é o primeiro que fiz usando JavaScript e me incentivou a aprender mais da linguagem.
